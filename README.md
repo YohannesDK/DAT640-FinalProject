@@ -1,6 +1,8 @@
 # DAT640-FinalProject
 DAT640 - Final Project - Group 12
 
+## Dataset
+- [Dataset](https://www.kaggle.com/uciml/indian-liver-patient-records)
 
 ## Creating Baseline Models
 
