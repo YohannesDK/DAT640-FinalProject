@@ -15,4 +15,6 @@ Baseline model: SVM
 
 
 ## Links
-- 
+- https://github.com/duyet/demo-text-classification/blob/master/classification-with-tfidf-svm.ipynb
+- [Bert Classification](https://soumilshah1995.blogspot.com/2021/04/using-bert-with-scikit-learn-to-do-text.html)
+- [Smarttask-iswc2020](https://github.com/rcelebi/iswc2020-smarttask/blob/master/notebooks/TFIDF_type_pred_dbpedia_frequent_type.ipynb)
