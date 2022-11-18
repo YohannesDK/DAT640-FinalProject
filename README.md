@@ -1,5 +1,13 @@
 # DAT640-FinalProject
 DAT640 - Final Project - Group 12
+Files to run:
+Category Prediction:
+- Baseline.ipynb
+
+Type Prediction:
+- indexer_memory_intensive.ipynb (memory intensiv)
+- Evaluation.ipynb
+- indexer.ipynb (first try on indexing, not quite working, some weird behavior)
 
 ## Dataset
 - Category Prediction Dataset
