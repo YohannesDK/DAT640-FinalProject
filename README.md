@@ -1,6 +1,9 @@
 # DAT640-FinalProject
 DAT640 - Final Project - Group 12
 Files to run:
+
+Config.py -> define path variables etc. to datasets
+
 Category Prediction:
 - Baseline.ipynb
 
