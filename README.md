@@ -2,7 +2,12 @@
 DAT640 - Final Project - Group 12
 
 ## Dataset
-- [Dataset](https://github.com/smart-task/smart-dataset)
+- Category Prediction Dataset
+    - [Dataset](https://github.com/smart-task/smart-dataset)
+- Answer Type Prediction Dataset (Dbpedia)
+    - [instance_types_en.ttl](http://downloads.dbpedia.org/2016-10/core/instance_types_en.ttl.bz2)
+    - [short_abstracts_en.ttl](http://downloads.dbpedia.org/2016-10/core/short_abstracts_en.ttl.bz2)
+    - [long_abstracts_en.ttl](http://downloads.dbpedia.org/2016-10/core/long_abstracts_en.ttl.bz2)
 
 ## Creating Baseline Models
 
@@ -15,6 +20,8 @@ Baseline model: SVC
 
 
 ## Resources
+- Assigments - DAT640
+- [IR-SMART](https://github.com/BerntA/IR-SMART)
 - https://github.com/duyet/demo-text-classification/blob/master/classification-with-tfidf-svm.ipynb
 - [Bert Classification](https://soumilshah1995.blogspot.com/2021/04/using-bert-with-scikit-learn-to-do-text.html)
 - [Smarttask-iswc2020](https://github.com/rcelebi/iswc2020-smarttask/blob/master/notebooks/TFIDF_type_pred_dbpedia_frequent_type.ipynb)
